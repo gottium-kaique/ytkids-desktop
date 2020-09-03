@@ -11,4 +11,4 @@ crianças podem assistir.
 
 👤**Kaique Araújo**
 
-<h4">Feito com ♥, JavaScript, HTML e CSS.</h4>
+<h4>Feito com ♥, JavaScript, HTML e CSS.</h4>
