@@ -12,6 +12,9 @@ function createWindow() {
     center: true,
     backgroundColor: "#334",
     icon: "icon.png",
+    webPreferences: {
+      nodeIntegration: true,
+    }
   })
 
   Window.loadURL("https://youtubekids.com/").catch(() => {
